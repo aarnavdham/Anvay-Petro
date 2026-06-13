@@ -1733,3 +1733,21 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+
+.info-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.info-link:hover,
+.info-link:visited,
+.info-link:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+.info-link .info-item {
+  cursor: pointer;
+}
