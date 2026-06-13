@@ -1758,7 +1758,7 @@ section,
   font-size: 24px;       /* Adjust size as needed */
   font-weight: 700;       /* Makes "ANVAY" bold and prominent */
   text-transform: uppercase; /* Ensures it stays in ALL CAPS */
-  color: #193358;         /* Matches your dark blue navbar text color if needed */
+  color: #193358 !important;         /* Matches your dark blue navbar text color if needed */
   line-height: 1.1;       /* Tightens the spacing to the subtitle */
 }
 
