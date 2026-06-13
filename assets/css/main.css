@@ -1765,7 +1765,7 @@ section,
 .logo .sitesubtitle {
   font-size: 12px;       /* Smaller font size */
   font-weight: 400;       /* Normal weight for contrast */
-  color: #e0e0e0;         /* Slightly lighter/muted color so it doesn't compete */
+  color: #ffffff;         /* Slightly lighter/muted color so it doesn't compete */
   letter-spacing: 0.5px;  /* Optional: gives the small text a clean look */
   line-height: 1.2;
 }
